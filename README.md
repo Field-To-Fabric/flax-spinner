@@ -27,6 +27,7 @@ For the gill belts:
 * Neoprene rubber sheet, 80mm (width) * 1.5mm (thickness) * 3m (length)
 * Staples Bosch Typ 53 (11.4mm wide, 10mm deep, 0,74mm staple thickness), to be used with Bosch staple gun
 * 6 x 400mm M8 threaded rods
+* 1 x 400mm M8 steel rod
 * M8 lock nuts 
 * 4 x M8 GT2 pulley 40 teeth, 10mm wide
 * 2 x GT2 timing belt, 280mm, 10mm wide
