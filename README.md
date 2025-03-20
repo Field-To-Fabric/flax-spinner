@@ -63,6 +63,14 @@ Electronics:
 * 24V power supply
 * 24V to 12V buck converter
 
+## Instructions
+
+Assemble the roller holders.
+
+![Roller assembly sketch](./sketches/roller_assembly.jpg "Roller assembly")
+
+Ensure the TPU stoppers are well wedged into the steel roller and press further by tightening the lock nuts. The M10 steel shaft goes through the wooden roller, the fit might be quite tight, you may need to hammer it through.
+
 ## License
 
 All source files in this repository are covered by the CERN-OHL-S v2 (even where not explicitly stated). Assume the following license statement applies:
