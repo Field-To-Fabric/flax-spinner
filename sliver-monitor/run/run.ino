@@ -31,20 +31,44 @@
 
 HX711 scale;
 
+float minChange = 0.5f;
+long minChangeMs = 700;
+float lastReading;
+long lastReadingMillis = 0;
+long totalStoppage = 0;
+long pauseDetectionTimer = 0;
+boolean pauseTimerActivated = false;
+
+
 void setup() {
   Serial.begin(9600);
-  Serial.println("HX711 scale demo");
 
   scale.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN);
   scale.set_scale(calibration_factor); //This value is obtained by using the SparkFun_HX711_Calibration sketch
   scale.tare(); //Assuming there is no weight on the scale at start up, reset the scale to 0
-
-  Serial.println("Readings:");
 }
 
 void loop() {
-  Serial.print("Reading: ");
-  Serial.print(scale.get_units(5), 1); //scale.get_units() returns a float
-  Serial.print(" g"); //You can change this to kg but you'll need to refactor the calibration_factor
+  long currentMillis = millis();
+  Serial.print(currentMillis);
+  Serial.print(",");
+  float reading = scale.get_units(5);
+  Serial.print(reading, 1); //scale.get_units() returns a float
   Serial.println();
+  lastReading = reading;
+  lastReadingMs = currentMillis;
+  handleSerialInput();
 }
+
+void handleSerialInput() {
+  if(Serial.available()) {
+    char temp = Serial.read();
+    if (temp == 't') {
+      scale.tare();
+    }
+  } 
+}
+
+// Pause detection algorithm
+// Sample readings every X milliseconds. If more than 3 samples in a row return values within a range than we have a pause.
+// Once one reading is out of the pause range then start again.
