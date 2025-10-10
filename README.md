@@ -18,20 +18,21 @@ For the frame:
 * M3 nuts and bolts and washers
 * M8 lock nuts
 
-For the gill belts:
+For the gill box:
 
-* Nylon round pulley, 8 * 36 * 10mm)
-* M8 Nylon spacers, 30mm
-* Nails 1mm diameter, 25mm length
-* D-shaped wooden strips (20mm wide, 4mm height)
-* Neoprene rubber sheet, 80mm (width) * 1.5mm (thickness) * 3m (length)
-* Staples Bosch Typ 53 (11.4mm wide, 10mm deep, 0,74mm staple thickness), to be used with Bosch staple gun
-* 6 x 400mm M8 threaded rods
-* 1 x 400mm M8 steel rod
-* M8 lock nuts 
-* 4 x M8 GT2 pulley 40 teeth, 10mm wide
-* 2 x GT2 timing belt, 280mm, 10mm wide
-
+* 4 x MOD 1.5 50 tooth spur gears [technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html). Order with 15mm bore and tapped grub screw holes (pair of M6).
+* 4 x 15mm diameter steel round bar, 420mm [metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p)
+* 4 * 15mm diameter steel round bar, 200mm
+* 1 x 15mm diameter steel round bar, 250mm
+* 1 x 10mm diameter steel round bar, 150mm
+* 32 x 2.5mm diameter steel round bar, 100mm
+* 2 x 2.5mm diamter steel round bar, 150mm
+* 2 x 10mm bore flanged shaft coupling
+* 1 x 10mm to 15mm rigid shaft coupling
+* 2 x 8mm to 15mm rigid shaft coupling (this is for stepper motors with 8mm shaft)
+* 12 x ball bearing, 15 x 32 x 9 (ID, OD, W)
+* 4 x M15 shaft collar
+* 2 part epoxy glue
 
 For the rollers:
 * 2 x hardwood rollers (80mm diameter, 300mm length)
