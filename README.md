@@ -25,11 +25,14 @@ For the gill box:
 * 4 * 15mm diameter steel round bar, 200mm
 * 1 x 15mm diameter steel round bar, 250mm
 * 2 x 10mm diameter steel round bar, 150mm
+* 1 x 8mm diameter steel round bar, 250mm
 * 32 x 2.5mm diameter steel round bar, 100mm
 * 2 x 2.5mm diamter steel round bar, 150mm
 * 2 x 2 bolt flanged bearings, 10mm bore
 * 2 x 2 bolt flanged bearings, 15mm bore
-* 2 x 10mm bore flanged shaft coupling
+* 2 x linear ball bearings for 8mm shaft
+* 1 x 10mm bore flanged shaft coupling
+* 1 x 8mm bore flanged shaft coupling
 * 1 x 10mm to 15mm rigid shaft coupling
 * 2 x 8mm to 15mm rigid shaft coupling (this is for stepper motors with 8mm shaft)
 * 12 x ball bearing, 15 x 32 x 9 (ID, OD, W)
