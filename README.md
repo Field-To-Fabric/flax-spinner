@@ -20,8 +20,8 @@ For the frame:
 
 For the gill box:
 
-* 4 x MOD 1.5 50 tooth spur gears [technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html). Order with 15mm bore and tapped grub screw holes (pair of M6).
-* 4 x 15mm diameter steel round bar, 420mm [metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p)
+* 4 x MOD 1.5 50 tooth spur gears ([technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html)). Order with 15mm bore and tapped grub screw holes (pair of M6).
+* 4 x 15mm diameter steel round bar, 420mm ([metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p))
 * 4 * 15mm diameter steel round bar, 200mm
 * 1 x 15mm diameter steel round bar, 250mm
 * 1 x 10mm diameter steel round bar, 150mm
