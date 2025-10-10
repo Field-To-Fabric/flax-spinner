@@ -27,12 +27,18 @@ For the gill box:
 * 2 x 10mm diameter steel round bar, 150mm
 * 32 x 2.5mm diameter steel round bar, 100mm
 * 2 x 2.5mm diamter steel round bar, 150mm
+* 2 x 2 bolt flanged bearings, 10mm bore
+* 2 x 2 bolt flanged bearings, 15mm bore
 * 2 x 10mm bore flanged shaft coupling
 * 1 x 10mm to 15mm rigid shaft coupling
 * 2 x 8mm to 15mm rigid shaft coupling (this is for stepper motors with 8mm shaft)
 * 12 x ball bearing, 15 x 32 x 9 (ID, OD, W)
 * 4 x M15 shaft collar
 * 2 part epoxy glue
+* Assorted M8 bolts with washers
+* M8 lock nuts
+* M6 T-nuts
+* Assorted M6 bolts with washers
 
 For the rollers:
 * 2 x hardwood rollers (80mm diameter, 300mm length)
