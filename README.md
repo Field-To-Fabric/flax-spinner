@@ -24,7 +24,7 @@ For the gill box:
 * 4 x 15mm diameter steel round bar, 420mm ([metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p))
 * 4 * 15mm diameter steel round bar, 200mm
 * 1 x 15mm diameter steel round bar, 250mm
-* 1 x 10mm diameter steel round bar, 150mm
+* 2 x 10mm diameter steel round bar, 150mm
 * 32 x 2.5mm diameter steel round bar, 100mm
 * 2 x 2.5mm diamter steel round bar, 150mm
 * 2 x 10mm bore flanged shaft coupling
