@@ -42,6 +42,12 @@ For the gill box:
 * M8 lock nuts
 * M6 T-nuts
 * Assorted M6 bolts with washers
+* 1 x 10mm bore 1108 taper bush ([bearing boys](https://www.bearingboys.co.uk/1108-Taper-Bushes/110810-Dunlop-Taper-Bush-with-10mm-Bore-2217-p))
+* 1 x 15mm bore 1108 taper bush ([bearing boys](https://www.bearingboys.co.uk/1108-Taper-Bushes/110815-Dunlop-Taper-Bush-with-15mm-Bore-136781-p))
+* 1 x 15mm bore 2012 taper bush ([bearing boys(https://www.bearingboys.co.uk/2012-Taper-Bushes/201215-Taper-Bush-Dunlop-344374-p)])
+* 2 x 28 tooth 8M taperlock pulley (1108 taper bush, 20mm wide belt) ((bearing boys)[https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/288M20-Taperlock-Timing-Pulley-21477-p])
+* 1 x 56 tooth 8M taperlock pulley (2012 taper bush, 20mm wide belt)([bearing boys](https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/568M20-Taperlock-Timing-Pulley-21486-p))
+* 1 x 8M timing belt, 1040mm, 130 teeth, 20mm wide ([bearing boys](https://www.bearingboys.co.uk/8M-Section-8mm-Pitch/10408M20-Timing-Belt-6249-p))
 
 For the rollers:
 * 2 x hardwood rollers (80mm diameter, 300mm length)
