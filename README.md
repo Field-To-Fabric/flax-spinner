@@ -18,20 +18,36 @@ For the frame:
 * M3 nuts and bolts and washers
 * M8 lock nuts
 
-For the gill belts:
+For the gill box:
 
-* Nylon round pulley, 8 * 36 * 10mm)
-* M8 Nylon spacers, 30mm
-* Nails 1mm diameter, 25mm length
-* D-shaped wooden strips (20mm wide, 4mm height)
-* Neoprene rubber sheet, 80mm (width) * 1.5mm (thickness) * 3m (length)
-* Staples Bosch Typ 53 (11.4mm wide, 10mm deep, 0,74mm staple thickness), to be used with Bosch staple gun
-* 6 x 400mm M8 threaded rods
-* 1 x 400mm M8 steel rod
-* M8 lock nuts 
-* 4 x M8 GT2 pulley 40 teeth, 10mm wide
-* 2 x GT2 timing belt, 280mm, 10mm wide
-
+* 4 x MOD 1.5 50 tooth spur gears ([technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html)). Order with 15mm bore and tapped grub screw holes (pair of M6).
+* 4 x 15mm diameter steel round bar, 420mm ([metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p))
+* 4 * 15mm diameter steel round bar, 200mm
+* 1 x 15mm diameter steel round bar, 250mm
+* 2 x 10mm diameter steel round bar, 150mm
+* 1 x 8mm diameter steel round bar, 250mm
+* 32 x 2.5mm diameter steel round bar, 100mm
+* 2 x 2.5mm diamter steel round bar, 150mm
+* 2 x 2 bolt flanged bearings, 10mm bore
+* 2 x 2 bolt flanged bearings, 15mm bore
+* 2 x linear ball bearings for 8mm shaft
+* 1 x 10mm bore flanged shaft coupling
+* 1 x 8mm bore flanged shaft coupling
+* 1 x 10mm to 15mm rigid shaft coupling
+* 2 x 8mm to 15mm rigid shaft coupling (this is for stepper motors with 8mm shaft)
+* 12 x ball bearing, 15 x 32 x 9 (ID, OD, W)
+* 4 x M15 shaft collar
+* 2 part epoxy glue
+* Assorted M8 bolts with washers
+* M8 lock nuts
+* M6 T-nuts
+* Assorted M6 bolts with washers
+* 1 x 10mm bore 1108 taper bush ([bearing boys](https://www.bearingboys.co.uk/1108-Taper-Bushes/110810-Dunlop-Taper-Bush-with-10mm-Bore-2217-p))
+* 1 x 15mm bore 1108 taper bush ([bearing boys](https://www.bearingboys.co.uk/1108-Taper-Bushes/110815-Dunlop-Taper-Bush-with-15mm-Bore-136781-p))
+* 1 x 15mm bore 2012 taper bush ([bearing boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/201215-Taper-Bush-Dunlop-344374-p)])
+* 2 x 28 tooth 8M taperlock pulley (1108 taper bush, 20mm wide belt) ([bearing boys](https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/288M20-Taperlock-Timing-Pulley-21477-p))
+* 1 x 56 tooth 8M taperlock pulley (2012 taper bush, 20mm wide belt)([bearing boys](https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/568M20-Taperlock-Timing-Pulley-21486-p))
+* 1 x 8M timing belt, 1040mm, 130 teeth, 20mm wide ([bearing boys](https://www.bearingboys.co.uk/8M-Section-8mm-Pitch/10408M20-Timing-Belt-6249-p))
 
 For the rollers:
 * 2 x hardwood rollers (80mm diameter, 300mm length)
