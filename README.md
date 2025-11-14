@@ -67,7 +67,7 @@ For the rollers:
 * 1 x M10 steel rod 250mm
 * 2 x stainless steel tube 30mm OD, 1.5mm wall thickness, 300mm length
 * 1 x stainless steel tube 30mm OD, 1.5mm wall thickness, 120mm length
-* 12 x compression spring, 45mm x 9.6mm, 10.4N/mm (or similar, must fit over M6 bolt)
+* 12 x compression spring, 45mm x 9.6mm, 10.4N/mm (or similar, must fit over M6 bolt) - NOTE: these springs might be too strong for the new rollers, or at least they must be shorter than the bolt so you can tighten down very slightly, 38mm).
 * 6 x M10 flange coupling connector
 * Small wood screws
 * Flexible shaft coupling, M10 to motor shaft size (motor with M8 shaft is good)
