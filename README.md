@@ -9,8 +9,8 @@ These are the materials necessary for building the machine.
 
 For the frame:
 
-* 3 x Aluminium Extrusion bars (30 * 60 * 1300mm)
-* Aluminium extrusion bars (30 * 30mm) - 2 meters
+* 2 x Aluminium Extrusion bars (30mm * 60 * 1300)
+* Aluminium extrusion bars (30mm * 30) - 3 meters
 * M4 T-nuts
 * M6 T-nuts
 * Angle brackets (that can be placed along as well as across the bars)
@@ -20,6 +20,7 @@ For the frame:
 
 For the gill box:
 
+* 2 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible)
 * 4 x MOD 1.5 50 tooth spur gears ([technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html)). Order with 15mm bore and tapped grub screw holes (pair of M6).
 * 4 x 15mm diameter steel round bar, 420mm ([metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p))
 * 4 * 15mm diameter steel round bar, 200mm
@@ -49,25 +50,24 @@ For the gill box:
 * 1 x 56 tooth 8M taperlock pulley (2012 taper bush, 20mm wide belt)([bearing boys](https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/568M20-Taperlock-Timing-Pulley-21486-p))
 * 1 x 8M timing belt, 1040mm, 130 teeth, 20mm wide ([bearing boys](https://www.bearingboys.co.uk/8M-Section-8mm-Pitch/10408M20-Timing-Belt-6249-p))
 
-For the rollers:
+For the rollers (wood and spinning cots):
 * 2 x hardwood rollers (80mm diameter, 300mm length)
 * 1 x hardwood roller (80mm diameter 115mm length)
-* 4 x NEMA 23 stepper motor (M8 shaft if possible)
+* 6 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible)
+* 5 x linen spinning cot (order from Fantasy Fibre Mill)
 * M4 T-nuts
 * M4 bolts
-* 12 x KP000 pillow block bearing, 10mm bore
-* 12 x M6 120mm bolt
-* 12 x M6 washers
-* M5 bolts and lock nuts
+* 24 x KP000 pillow block bearing, 10mm bore
+* 24 x M6 120mm bolt
+* 24 x M6 washers
 * M6 lock nut
+* M5 bolts and lock nuts
 * M10 lock nut
-* 2 x M10 threaded rod 450mm
-* 1 x M10 threaded rod 250mm
-* 2 x M10 steel rod 450mm
-* 1 x M10 steel rod 250mm
-* 2 x stainless steel tube 30mm OD, 1.5mm wall thickness, 300mm length
-* 1 x stainless steel tube 30mm OD, 1.5mm wall thickness, 120mm length
-* 12 x compression spring, 45mm x 9.6mm, 10.4N/mm (or similar, must fit over M6 bolt) - NOTE: these springs might be too strong for the new rollers, or at least they must be shorter than the bolt so you can tighten down very slightly, 38mm).
+* 4 x M10 threaded rod 500mm
+* 2 x M10 threaded rod 300mm
+* 4 x M10 steel rod 500mm
+* 2 x M10 steel rod 300mm
+* 12 x compression spring (
 * 6 x M10 flange coupling connector
 * Small wood screws
 * Flexible shaft coupling, M10 to motor shaft size (motor with M8 shaft is good)
@@ -82,8 +82,6 @@ Electronics:
 ## Instructions
 
 Assemble the roller holders.
-
-![Roller assembly sketch](./sketches/roller_assembly.jpg "Roller assembly")
 
 Ensure the TPU stoppers are well wedged into the steel roller and press further by tightening the lock nuts. The M10 steel shaft goes through the wooden roller, the fit might be quite tight, you may need to hammer it through.
 
