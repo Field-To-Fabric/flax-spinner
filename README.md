@@ -67,23 +67,23 @@ For the rollers (wood and spinning cots):
 * 2 x M10 threaded rod 300mm
 * 4 x M10 steel rod 500mm
 * 2 x M10 steel rod 300mm
-* 12 x compression spring (
-* 6 x M10 flange coupling connector
+* 12 x compression spring, 4.238N/m, 34.93mm free length, 6.35 rod diameter (similar to [LC049E12S](https://www.leespring.co.uk/compression-springs?search=LC049E12S))
+* 6 x M10 flanged coupling connector
+* 60 x M3 heat inserts
+* 60 x M3 bolt, 10mm
 * Small wood screws
-* Flexible shaft coupling, M10 to motor shaft size (motor with M8 shaft is good)
+* 6 x flexible shaft coupling, 10mm to motor shaft size (eg 10 to 8)
 
 Electronics:
-* Arduino Mega
-* 4 x TB6600 stepper motor drivers
+* 2 x Arduino Mega
+* 5 x TB6600 stepper motor drivers
 * Barrel jack connector
 * 24V power supply
 * 24V to 12V buck converter
 
 ## Instructions
 
-Assemble the roller holders.
-
-Ensure the TPU stoppers are well wedged into the steel roller and press further by tightening the lock nuts. The M10 steel shaft goes through the wooden roller, the fit might be quite tight, you may need to hammer it through.
+Coming soon.
 
 ## License
 
