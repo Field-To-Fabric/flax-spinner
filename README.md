@@ -83,6 +83,24 @@ Electronics:
 * 24V power supply
 * 24V to 12V buck converter
 
+## 3D printing
+
+PLA components:
+* One of each gill screw component
+* 2 x gill box axle support LHS
+* 2 x gill box axle support RHS
+* 1 x gill box motor axle support LHS
+* 1 x gill box motor axle support RHS
+* 5 x drive wheel fine tooth
+* 4 x axle mid support
+* 3 x motor axle holder
+* 3 x motor holder
+* 2 x spindle with slot
+* 2 x modified ring
+
+TPU components (medium shore):
+* 10 x cot inserts
+
 ## Instructions
 
 Coming soon on our website.
