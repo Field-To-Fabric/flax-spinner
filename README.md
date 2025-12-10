@@ -97,6 +97,13 @@ PLA components:
 * 3 x motor holder
 * 2 x spindle with slot
 * 2 x modified ring
+* 2 x elevator faller bar blocker
+* 2 x elevator faller bar presser
+* 2 x elevator guide support holder
+* 2 x elevator guide support attachment
+* 1 x elevator spring support right
+* 1 x elevator spring support left
+* For each faller bar print each part once (one full machine takes 29 faller bars)
 
 TPU components (medium shore):
 * 10 x cot inserts
