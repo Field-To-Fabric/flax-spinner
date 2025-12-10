@@ -20,7 +20,7 @@ For the frame:
 
 For the gill box:
 
-* 2 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible)
+* 2 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible or larger) and stepper motor driver (TB6600)
 * 4 x MOD 1.5 50 tooth spur gears ([technobots](https://www.technobotsonline.com/tbot-steel-spur-gear-mod-1.5-50-tooth-ss15-50b.html)). Order with 15mm bore and tapped grub screw holes (pair of M6).
 * 4 x 15mm diameter steel round bar, 420mm ([metals4u](https://www.metals4u.co.uk/materials/stainless-steel/stainless-steel-round/1151-p))
 * 4 * 15mm diameter steel round bar, 200mm
@@ -50,40 +50,42 @@ For the gill box:
 * 1 x 56 tooth 8M taperlock pulley (2012 taper bush, 20mm wide belt)([bearing boys](https://www.bearingboys.co.uk/8M-Taperlock-Timing-Pulley/568M20-Taperlock-Timing-Pulley-21486-p))
 * 1 x 8M timing belt, 1040mm, 130 teeth, 20mm wide ([bearing boys](https://www.bearingboys.co.uk/8M-Section-8mm-Pitch/10408M20-Timing-Belt-6249-p))
 
-For the rollers (wood and spinning cots):
-* 2 x hardwood rollers (80mm diameter, 300mm length)
-* 1 x hardwood roller (80mm diameter 115mm length)
-* 6 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible)
+For the rollers:
+* 3 x NEMA 23 stepper motor (4A, >2.5NM torque, M8 shaft if possible) and stepper motor driver (TB6600)
 * 5 x linen spinning cot (order from Fantasy Fibre Mill)
 * M4 T-nuts
 * M4 bolts
-* 24 x KP000 pillow block bearing, 10mm bore
-* 24 x M6 120mm bolt
-* 24 x M6 washers
+* 12 x KP000 pillow block bearing, 10mm bore
+* 12 x M6 120mm bolt
+* 36 x M6 washers (get more to be sure)
 * M6 lock nut
 * M5 bolts and lock nuts
 * M10 lock nut
-* 4 x M10 threaded rod 500mm
-* 2 x M10 threaded rod 300mm
-* 4 x M10 steel rod 500mm
-* 2 x M10 steel rod 300mm
-* 12 x compression spring, 4.238N/m, 34.93mm free length, 6.35 rod diameter (similar to [LC049E12S](https://www.leespring.co.uk/compression-springs?search=LC049E12S))
-* 6 x M10 flanged coupling connector
-* 60 x M3 heat inserts
-* 60 x M3 bolt, 10mm
+* 2 x M10 threaded rod 500mm
+* 1 x M10 threaded rod 300mm
+* 2 x M10 steel rod 500mm
+* 1 x M10 steel rod 300mm
+* 12 x compression spring, 45mm x 9.6mm, 10.4N/mm (or similar, must fit over M6 bolt)
+* 30 x M3 heat inserts
+* 30 x M3 bolt, 10mm
 * Small wood screws
-* 6 x flexible shaft coupling, 10mm to motor shaft size (eg 10 to 8)
+* 3 x flexible shaft coupling, 10mm to motor shaft size (eg 10 to 8)
+* 10 x M10 t-nut with 3 m3 holes (on [amazon](https://www.amazon.co.uk/dp/B0F5PHMNQV?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1))
+* 10 x M10 collars (for 10mm steel bar)
+
+For the faller bars:
+* 2 x 2.5mm x 200mm steel rods (for each faller bar)
+* Gill pin insert (order from Fantasy Fibre Mill).
 
 Electronics:
 * 2 x Arduino Mega
-* 5 x TB6600 stepper motor drivers
 * Barrel jack connector
 * 24V power supply
 * 24V to 12V buck converter
 
 ## Instructions
 
-Coming soon.
+Coming soon on our website.
 
 ## License
 
