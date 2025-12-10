@@ -105,6 +105,9 @@ TPU components (medium shore):
 
 Coming soon on our website.
 
+## Contributors
+* Iris Veentjer (3D models for gill box elevator)
+
 ## License
 
 All source files in this repository are covered by the CERN-OHL-S v2 (even where not explicitly stated). Assume the following license statement applies:
